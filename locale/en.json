@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Nasdaq signal dashboard",
+    "description": "Adds the Nasdaq three-signal dashboard to the sidebar and keeps its market data in sync automatically."
+  }
+}

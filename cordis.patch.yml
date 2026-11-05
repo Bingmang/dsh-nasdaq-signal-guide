@@ -1,0 +1,10 @@
+# Bundle patch for dsh-nasdaq-signal-guide.
+#
+# Inserts one loader row. The row id is the stable handle later profile patch
+# layers can target, for example:
+#
+#   - id: nasdaq-signal-guide
+#     disabled: true
+- insert:
+    - id: nasdaq-signal-guide
+      name: "dsh-nasdaq-signal-guide"
